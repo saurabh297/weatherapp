@@ -1,0 +1,11 @@
+.Header-color {
+  background: #33b4b7;
+    border-color: #8a6d3b;
+}
+.Header {
+  text-align: center;
+}
+.Header-logo {
+  animation: App-logo-spin infinite 25s linear;
+  height: 250px;
+}
